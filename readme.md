@@ -13,7 +13,7 @@
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817190036.png)
 
-## Usage
+##  Usage
 
 ## 获取Cookie
 
