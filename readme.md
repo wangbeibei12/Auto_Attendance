@@ -19,7 +19,7 @@
 
 获取eai-sess和UUkey
 
-1. 打开浏览器，按F12调出控制台
+1. 打开浏览器，按F12调出 控制台
 
 2. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410114231.jpg)
 
